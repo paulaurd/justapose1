@@ -1,2 +1,2 @@
 # juxtapose1
-Para colocar imagenes de prueba con justapose
+Para colocar imagenes de prueba con juxtapose
